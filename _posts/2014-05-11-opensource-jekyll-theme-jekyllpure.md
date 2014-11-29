@@ -15,7 +15,6 @@ duoshuo: false
 Demo:[曾经不知你好'Blog](http://liyouhai.com/)
 
 Github:[JekyllPure'github](https://github.com/liyouhai/JekyllPure)
-
 ##版本更新
 ----------
 |版本   | 时间  | 说明|
